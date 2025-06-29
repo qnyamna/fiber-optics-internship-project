@@ -1,0 +1,110 @@
+{
+  "groups": [
+    {
+      "name": "das.producer.box.simulator",
+      "type": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "das.producer.box.simulator.amplitude-data-type",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.amplitudes-pr-package",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.box.simulator.box-u-u-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.conversion-constant",
+      "type": "java.lang.Double",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.disable-throttling",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration",
+      "defaultValue": false
+    },
+    {
+      "name": "das.producer.box.simulator.gauge-length",
+      "type": "java.lang.Float",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.max-freq",
+      "type": "java.lang.Float",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.min-freq",
+      "type": "java.lang.Float",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.number-of-loci",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.box.simulator.number-of-pre-populated-values",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.box.simulator.number-of-shots",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.optical-path-u-u-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.pulse-rate",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.box.simulator.pulse-width",
+      "type": "java.lang.Float",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.seconds-to-run",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.box.simulator.spatial-sampling-interval",
+      "type": "java.lang.Float",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.simulator.start-locus-index",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.box.simulator.start-time-epoch-second",
+      "type": "java.lang.Long",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.simulatorboxunit.SimulatorBoxUnitConfiguration",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

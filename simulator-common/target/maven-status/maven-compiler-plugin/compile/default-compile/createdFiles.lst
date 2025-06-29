@@ -1,0 +1,4 @@
+com\equinor\fiberoptics\das\producer\variants\util\Helpers.class
+com\equinor\fiberoptics\das\producer\variants\PartitionKeyValueEntry.class
+com\equinor\fiberoptics\das\producer\variants\PackageStepCalculator.class
+com\equinor\fiberoptics\das\producer\variants\GenericDasProducer.class

@@ -1,0 +1,4 @@
+com\equinor\fiberoptics\das\producer\variants\simulatorboxunit\SimulatorBoxUnit.class
+META-INF\spring-configuration-metadata.json
+com\equinor\fiberoptics\das\producer\variants\simulatorboxunit\RandomDataCache.class
+com\equinor\fiberoptics\das\producer\variants\simulatorboxunit\SimulatorBoxUnitConfiguration.class

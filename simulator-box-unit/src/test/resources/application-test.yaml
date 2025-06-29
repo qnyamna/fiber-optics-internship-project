@@ -1,0 +1,21 @@
+das:
+  producer:
+    box:
+      simulator:
+        amplitudeDataType: long
+        numberOfShots: 10
+        secondsToRun: 5
+        pulseRate: 10000
+        maxFreq: 5000
+        minFreq: 0
+        boxUUID: ${BOX_UUID}
+        opticalPathUUID: ${OPTICAL_PATH_UUID}
+        spatialSamplingInterval: 1.1
+        pulseWidth: 100.50
+        startLocusIndex: 0
+        disableThrottling: true
+        gaugeLength: 10.209524
+        numberOfLoci: 3
+        numberOfPrePopulatedValues: 100
+        amplitudesPrPackage: 8192
+        startTimeEpochSecond: 0
