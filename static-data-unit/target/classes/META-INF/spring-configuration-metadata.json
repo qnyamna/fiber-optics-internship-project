@@ -1,0 +1,67 @@
+{
+  "groups": [
+    {
+      "name": "das.producer.box.static",
+      "type": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "das.producer.box.static.amplitude-data-type",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.static.amplitudes-pr-package",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.box.static.box-u-u-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.static.disable-throttling",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration",
+      "defaultValue": false
+    },
+    {
+      "name": "das.producer.box.static.max-freq",
+      "type": "java.lang.Float",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.static.number-of-loci",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.box.static.number-of-shots",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.static.optical-path-u-u-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration"
+    },
+    {
+      "name": "das.producer.box.static.seconds-to-run",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.box.static.start-time-epoch-second",
+      "type": "java.lang.Long",
+      "sourceType": "com.equinor.fiberoptics.das.producer.variants.staticdataunit.StaticDataUnitConfiguration",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

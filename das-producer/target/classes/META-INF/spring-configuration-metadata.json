@@ -1,0 +1,79 @@
+{
+  "groups": [
+    {
+      "name": "das.producer",
+      "type": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    },
+    {
+      "name": "das.producer.kafka",
+      "type": "com.equinor.kafka.KafkaConfiguration",
+      "sourceType": "com.equinor.kafka.KafkaConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "das.producer.acquisition-start-version",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    },
+    {
+      "name": "das.producer.amplitudes-pr-package",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.initiatorservice-api-key",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    },
+    {
+      "name": "das.producer.initiatorservice-url",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    },
+    {
+      "name": "das.producer.kafka-topic-name",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    },
+    {
+      "name": "das.producer.kafka.partitions",
+      "type": "java.lang.Integer",
+      "sourceType": "com.equinor.kafka.KafkaConfiguration",
+      "defaultValue": 0
+    },
+    {
+      "name": "das.producer.kafka.topic",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.kafka.KafkaConfiguration"
+    },
+    {
+      "name": "das.producer.override-bootstrap-servers-with",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    },
+    {
+      "name": "das.producer.override-schema-registry-with",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    },
+    {
+      "name": "das.producer.partition-assignments",
+      "type": "java.util.Map<java.lang.Integer,java.lang.Integer>",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    },
+    {
+      "name": "das.producer.variant",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    },
+    {
+      "name": "das.producer.vendor-code",
+      "type": "java.lang.String",
+      "sourceType": "com.equinor.fiberoptics.das.producer.DasProducerConfiguration"
+    }
+  ],
+  "hints": []
+}

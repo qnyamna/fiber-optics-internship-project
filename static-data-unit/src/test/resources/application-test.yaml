@@ -1,0 +1,14 @@
+das:
+  producer:
+    box:
+      static:
+        numberOfShots: 10
+        secondsToRun: 5
+        boxUUID: ${BOX_UUID}
+        opticalPathUUID: ${OPTICAL_PATH_UUID}
+        disableThrottling: true
+        numberOfLoci: 3
+        amplitudesPrPackage: 8192
+        maxFreq: 5000
+        startTimeEpochSecond: 1634000000
+        amplitudeDataType: ${AMPLITUDE_DATA_TYPE:float}
