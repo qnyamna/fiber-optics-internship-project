@@ -1,0 +1,101 @@
+FIBER OPTICS DAS - PIPELINE MONITORING REPORT
+======================================================================
+
+Report Generated: 2025-06-18 21:24:59
+Analysis Period: 0.0 to 120.0 seconds
+Pipeline Section: 0 to 99 km
+Sensor Resolution: 100 sensors
+Temporal Resolution: 1000 time samples
+Total Data Points Analyzed: 100,000
+
+EXECUTIVE SUMMARY:
+--------------------
+• 4 significant events detected during monitoring period
+• Peak disturbance amplitude: 4.887
+• Average background noise level: 0.081
+• System operational status: NORMAL
+• Pipeline integrity: MAINTAINED
+
+DETAILED EVENT ANALYSIS:
+------------------------------
+
+EVENT #1: Vehicle Traffic Above Pipeline
+========================================
+Start Time: 20.0 seconds
+End Time: 40.0 seconds
+Duration: 20.0 seconds
+Location Start: 25 km
+Location End: 35 km
+Affected Distance: 10 km
+Peak Amplitude: 2.464
+Average Amplitude: 0.459
+Total Energy: 1185.907
+Risk Level: MEDIUM
+Recommended Action: SCHEDULE INSPECTION
+Event Type: Surface vehicle activity
+Interpretation: Regular traffic above pipeline - no threat
+
+EVENT #2: Equipment Vibration
+=============================
+Start Time: 50.0 seconds
+End Time: 80.0 seconds
+Duration: 30.0 seconds
+Location Start: 60 km
+Location End: 70 km
+Affected Distance: 10 km
+Peak Amplitude: 4.279
+Average Amplitude: 2.006
+Total Energy: 11789.663
+Risk Level: HIGH
+Recommended Action: IMMEDIATE INVESTIGATION REQUIRED
+Event Type: Mechanical vibration
+Interpretation: Equipment operation - normal pipeline activity
+
+EVENT #3: Unauthorized Digging Activity
+=======================================
+Start Time: 90.0 seconds
+End Time: 110.0 seconds
+Duration: 20.0 seconds
+Location Start: 10 km
+Location End: 20 km
+Affected Distance: 10 km
+Peak Amplitude: 4.887
+Average Amplitude: 2.324
+Total Energy: 10739.342
+Risk Level: HIGH
+Recommended Action: IMMEDIATE INVESTIGATION REQUIRED
+Event Type: Ground excavation activity
+Interpretation: Potential third-party interference - requires investigation
+
+EVENT #4: Small Leak Detection
+==============================
+Start Time: 100.0 seconds
+End Time: 120.0 seconds
+Duration: 20.0 seconds
+Location Start: 45 km
+Location End: 55 km
+Affected Distance: 10 km
+Peak Amplitude: 2.384
+Average Amplitude: 0.971
+Total Energy: 2399.432
+Risk Level: MEDIUM
+Recommended Action: SCHEDULE INSPECTION
+Event Type: Pressure anomaly
+Interpretation: Possible pipeline integrity issue - urgent inspection needed
+
+SYSTEM PERFORMANCE METRICS:
+-----------------------------------
+Data Quality: 100% (all sensors operational)
+Event Detection Sensitivity: HIGH
+False Positive Rate: LOW
+Spatial Resolution: 0.99 km per sensor
+Temporal Resolution: 0.120 seconds per sample
+
+RECOMMENDATIONS:
+--------------------
+1. Continue 24/7 monitoring with current sensitivity settings
+2. Investigate high-amplitude events within 24 hours
+3. Correlate surface activities with detected events
+4. Maintain regular calibration schedule
+5. Archive data for historical trend analysis
+

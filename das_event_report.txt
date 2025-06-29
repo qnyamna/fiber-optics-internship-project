@@ -1,0 +1,39 @@
+FIBER OPTICS DAS - EVENT ANALYSIS REPORT
+============================================================
+
+Analysis Period: 0.0 to 120.0 seconds
+Fiber Length: 99 km
+Total Events Detected: 3
+
+EVENT: Vehicle Traffic
+  Time: 20.0 - 30.0 seconds
+  Location: 25 - 35 km along fiber
+  Duration: 10.0 seconds
+  Distance: 10 km
+  Peak Amplitude: 3.574
+  Average Amplitude: 1.994
+  Total Energy: 3901.278
+  Risk Level: HIGH
+
+EVENT: Pipeline Vibration
+  Time: 50.0 - 80.0 seconds
+  Location: 60 - 70 km along fiber
+  Duration: 30.0 seconds
+  Distance: 10 km
+  Peak Amplitude: 3.612
+  Average Amplitude: 1.973
+  Total Energy: 11438.085
+  Risk Level: HIGH
+
+EVENT: Digging Activity
+  Time: 90.0 - 110.0 seconds
+  Location: 10 - 20 km along fiber
+  Duration: 20.0 seconds
+  Distance: 10 km
+  Peak Amplitude: 3.629
+  Average Amplitude: 2.046
+  Total Energy: 8121.524
+  Risk Level: HIGH
+
+PIPELINE STATUS: All events monitored and analyzed
+SYSTEM STATUS: Fiber optic sensors operational
